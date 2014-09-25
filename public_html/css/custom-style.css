@@ -6,10 +6,9 @@ div {
 }
 
 .container {
+    border-color: green;
+}    
+    
+ .row {
     border-color: silver;
-    
-    
-    .row {
-        border-color: gold;
-    }   
-}
+ }   
