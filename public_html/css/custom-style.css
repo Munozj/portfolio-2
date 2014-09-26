@@ -12,3 +12,11 @@ div {
  .row {
     border-color: silver;
  }   
+
+ #index{
+     background-image: url("http://www.sammillerart.com/wp-content/uploads/2012/01/Oregon-Ducks-2012-Rose-Bowl-Uniforms.jpg");
+ }
+ 
+ body{
+     color: white;
+ }
